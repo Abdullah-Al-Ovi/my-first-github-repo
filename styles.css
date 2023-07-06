@@ -10,3 +10,8 @@
     margin: 6px;
 
 }
+.third{
+    background-color: blueviolet;
+    border: 3px dotted red;
+    border-radius: 3px;
+}
